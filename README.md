@@ -17,4 +17,3 @@ but broken up
 * List item 2
   * Continuation of list item 2
 * [x] List item 3
-:+1:
