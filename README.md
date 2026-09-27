@@ -4,11 +4,12 @@
 Words.
 
 ## Another Small Title
-* * More words, but fancy.
+*More words, but fancy.*
 > Quote about something.
 
 ### Even Smaller Title
 [link to GitHub page](https://aryianfontes.github.io/)
+
 Words\
 but broken up
 
